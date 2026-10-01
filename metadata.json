@@ -1,0 +1,8 @@
+{
+  "name": "Kuwait Room Mess Bill Calculator",
+  "description": "Minimal 5-member room mess, shared rent & utility bill calculator for Kuwait (KD) with instant 1-click expense entry, peer-to-peer settlement, receipt OCR, and PDF reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

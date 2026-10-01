@@ -1,0 +1,115 @@
+{
+  "members": [
+    "Mujeeb",
+    "Rikash",
+    "Askar",
+    "Appunni",
+    "Kuttas"
+  ],
+  "fixedBills": {
+    "rentAmount": 205,
+    "rechargeAmount": 5,
+    "budgetThresholdKD": 350,
+    "rentDueDateDay": 30,
+    "rechargeDueDateDay": 15
+  },
+  "expenses": [
+    {
+      "id": "exp-rent-1",
+      "title": "Flat Monthly Rent (205 KD)",
+      "amount": 205,
+      "date": "2026-10-01",
+      "category": "Rent (205 KD)",
+      "paidBy": "Askar",
+      "splitWith": [
+        "Mujeeb",
+        "Rikash",
+        "Askar",
+        "Appunni",
+        "Kuttas"
+      ],
+      "vendor": "Building Haris / Landlord",
+      "notes": "Monthly flat rent shared equally (41 KD each)",
+      "month": "2026-10",
+      "createdAt": "2026-09-29T11:13:33.057Z"
+    },
+    {
+      "id": "exp-wifi-1",
+      "title": "Ooredoo 5G Room Wifi Recharge (5 KD)",
+      "amount": 5,
+      "date": "2026-10-01",
+      "category": "Internet Recharge (5 KD)",
+      "paidBy": "Rikash",
+      "splitWith": [
+        "Mujeeb",
+        "Rikash",
+        "Askar",
+        "Appunni",
+        "Kuttas"
+      ],
+      "vendor": "Ooredoo Kuwait",
+      "notes": "Fixed monthly internet bill (1 KD each)",
+      "month": "2026-10",
+      "createdAt": "2026-09-30T11:13:33.057Z"
+    },
+    {
+      "id": "exp-groc-1",
+      "title": "LuLu Hypermarket Groceries (Basmati rice, chicken, oil & spices)",
+      "amount": 14.75,
+      "date": "2026-10-01",
+      "category": "Groceries",
+      "paidBy": "Mujeeb",
+      "splitWith": [
+        "Mujeeb",
+        "Rikash",
+        "Askar",
+        "Appunni",
+        "Kuttas"
+      ],
+      "vendor": "LuLu Hypermarket Dajeej",
+      "notes": "Monthly mess supplies",
+      "month": "2026-10",
+      "createdAt": "2026-09-30T23:13:33.057Z"
+    },
+    {
+      "id": "exp-veg-1",
+      "title": "Fresh Vegetables & Onion Box from Souq",
+      "amount": 4.5,
+      "date": "2026-10-01",
+      "category": "Vegetables & Fruits",
+      "paidBy": "Appunni",
+      "splitWith": [
+        "Mujeeb",
+        "Rikash",
+        "Askar",
+        "Appunni",
+        "Kuttas"
+      ],
+      "vendor": "Vegetable Market",
+      "notes": "Tomatoes, onions, green chillies, ginger",
+      "month": "2026-10",
+      "createdAt": "2026-10-01T05:13:33.057Z"
+    },
+    {
+      "id": "exp-water-1",
+      "title": "Drinking Water Can 5-Gallon Bottles x 5",
+      "amount": 1.25,
+      "date": "2026-10-01",
+      "category": "Water & Drinks",
+      "paidBy": "Kuttas",
+      "splitWith": [
+        "Mujeeb",
+        "Rikash",
+        "Askar",
+        "Appunni",
+        "Kuttas"
+      ],
+      "vendor": "Rawdatain Water",
+      "notes": "Room drinking water delivery",
+      "month": "2026-10",
+      "createdAt": "2026-10-01T09:13:33.057Z"
+    }
+  ],
+  "settlements": [],
+  "lastUpdated": "2026-10-01T11:13:33.057Z"
+}
